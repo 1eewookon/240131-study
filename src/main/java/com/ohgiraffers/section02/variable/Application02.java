@@ -73,7 +73,7 @@ public class Application02 {
         System.out.println(isTrue);
 
         /* 목차. 2-5. 문자열을 취급하는 자료형에 값 대입 */
-//        str = "안녕하세요"
+        str = "안녕하세요";
 
     }
 }
